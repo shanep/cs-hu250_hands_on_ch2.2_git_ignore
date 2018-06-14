@@ -1,0 +1,6 @@
+# chaotic .gitignore
+build
+fileA3.txt
+fileRoot2.txt
+folderB
+*.class
